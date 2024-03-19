@@ -1,2 +1,3 @@
-# sandpile
+# Sandpile
+
 sandpile model
